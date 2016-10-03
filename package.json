@@ -1,0 +1,19 @@
+{
+  "name": "ast-test-2016",
+  "author": "badr kbitat",
+  "description": "test project",
+  "mail": "src/app.js",
+  "dependencies": {
+    "coffee-script": "^1.11.1",
+    "mocha": "^3.1.1",
+    "should": "^11.1.0"
+  },
+  "devDepencies": {},
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "./bin/start",
+    "test": "./bin/test"
+  },
+  "license": "ISC"
+}
